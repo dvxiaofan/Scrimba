@@ -1,12 +1,14 @@
 import React from 'react';
 
+import './Footer.css';
+
 
 function Footer() {
     return (
-        <footer>
-            <h3>this is a footer</h3>
+        <footer className="footer">
+            <p>德希科技， 版权所有</p>
         </footer>
     )
 }
 
-export default Footer;
+export default Footer; 

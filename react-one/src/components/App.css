@@ -2,6 +2,7 @@
 body {
   margin: 0;
 }
+
 .navbar {
   height: 100px;
   background-color: #333;
@@ -12,4 +13,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.footer {
+  height: 50px;
+  background: #666;
+  color: #fff;
+  font-size: 30px;
+  line-height: 50px;
+  text-align: center;
 }
